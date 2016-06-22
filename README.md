@@ -1,3 +1,9 @@
+**Deprecated**
+
+
+
+
+
 **Sample_GCM_Simple**
 
 * Android GCM 수신/발신 Sample 입니다.
